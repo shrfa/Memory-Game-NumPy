@@ -12,7 +12,9 @@
 
    `pip install numpy`
 
-3. run the application by `python3 game.py`
+3. run the application with the command below:
+
+    `python3 game.py`
 
 ### Gameplay:
 
