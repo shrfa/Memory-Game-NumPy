@@ -6,7 +6,7 @@
 
 1. Clone the source code to your local machine:
 
-   `git clone [https://github.com/shrfa/Memory-Game-NumPy.git](https://github.com/shrfa/Memory-Game-NumPy.git)`
+   `git clone `[https://github.com/shrfa/Memory-Game-NumPy.git](https://github.com/shrfa/Memory-Game-NumPy.git)
 
 2. install NumPy on your system if it's not installed yet. Use the command below:
 
